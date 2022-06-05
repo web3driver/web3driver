@@ -20,4 +20,10 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_introduction: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
           
