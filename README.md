@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.topics.svg)
 
 <!--
 **web3driver/web3driver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
