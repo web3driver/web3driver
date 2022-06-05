@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.topics.svg
-          base: header
+          base: ""
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_introduction: yes
